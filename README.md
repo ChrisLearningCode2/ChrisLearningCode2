@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python (in Process)</b>
+- <b><a href="https://github.com/ChrisLearningCode2/pwdgeneratorPHY">Python (in Process) </a></b>
 - <b><a href="https://github.com/ChrisLearningCode2/ADlab/blob/main/README.md">Active Directory Home Lab </a></b>
 - <b>Full Stack Web Training (in Process)</b>
 
